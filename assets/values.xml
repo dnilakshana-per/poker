@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento Enterprise Edition
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Magento Enterprise Edition License
+ * that is bundled with this package in the file LICENSE_EE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://www.magentocommerce.com/license/enterprise-edition
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    Mage
+ * @package     Mage_Core
+ * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://www.magentocommerce.com/license/enterprise-edition
+ */
+-->
+<config>
+    <values>
+        <item>
+            <id>2</id>
+            <label>2</label>
+        </item>
+        <item>
+            <id>3</id>
+            <label>3</label>
+        </item>
+        <item>
+            <id>4</id>
+            <label>4</label>
+        </item>
+        <item>
+            <id>5</id>
+            <label>5</label>
+        </item>
+        <item>
+            <id>6</id>
+            <label>6</label>
+        </item>
+        <item>
+            <id>7</id>
+            <label>7</label>
+        </item>
+        <item>
+            <id>8</id>
+            <label>8</label>
+        </item>
+        <item>
+            <id>9</id>
+            <label>9</label>
+        </item>
+        <item>
+            <id>10</id>
+            <label>10</label>
+        </item>
+        <item>
+            <id>j</id>
+            <label>Jack</label>
+        </item>
+        <item>
+            <id>q</id>
+            <label>Queen</label>
+        </item>
+        <item>
+            <id>k</id>
+            <label>King</label>
+        </item>
+        <item>
+            <id>a</id>
+            <label>Ace</label>
+        </item>
+    </values>
+</config>
